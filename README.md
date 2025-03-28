@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm45a3Jxd2VjejVxeTZ0OGR3YjYyb3hmbDNnZmIzcHQxamN5dHplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
+</p>
+
 <h1 align="center">Hi there 👋, I'm Kashan Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Earth 🌍</h3>
 
@@ -7,12 +11,12 @@ Additionally, I am committed to making a positive impact in the world through my
 <br/>Ss in short, I basically build stuff...⚡
 </p>
 
----
+<br/>
 
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** [BMS](https://tracker.bexact.co) & [TMS](https://tms.bexact.co)
-- 🌱 **Learning:** Golang <img src="https://skillicons.dev/icons?i=go" width="15"/> & Docker 🐳  
+- 🌱 **Learning:** Golang & Docker 🐳
 - 💬 **Ask me about:** TALL stack, backend development, and more!
 - 📫 **Reach me at:** [kashanahmed0408@gmail.com](mailto:kashanahmed0408@gmail.com)
 
@@ -30,17 +34,11 @@ Additionally, I am committed to making a positive impact in the world through my
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashan-amd&show_icons=true&theme=dracula&locale=en&layout=compact" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashan-amd&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashan-amd&theme=dark" />
 </p>
 
