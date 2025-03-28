@@ -11,7 +11,6 @@ Additionally, I am committed to making a positive impact in the world through my
 <br/>Soo.. in short, I basically build stuff...⚡
 </p>
 
-<br/>
 
 ### 🚀 About Me
 
