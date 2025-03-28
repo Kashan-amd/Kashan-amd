@@ -21,11 +21,11 @@ Additionally, I am committed to making a positive impact in the world through my
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,alpinejs,js,php,bootstrap,tailwind,git,github,bitbucket,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=laravel,alpinejs,js,php,python,go,bootstrap,tailwind,mysql,sqlite" width="400"/>
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,go,docker,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,vscode,sublime,linux,windows,photoshop,figma" width="330"/>
 </p>
 
 ---
