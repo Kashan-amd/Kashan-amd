@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm45a3Jxd2VjejVxeTZ0OGR3YjYyb3hmbDNnZmIzcHQxamN5dHplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm45a3Jxd2VjejVxeTZ0OGR3YjYyb3hmbDNnZmIzcHQxamN5dHplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Kashan Ahmed</h1>
