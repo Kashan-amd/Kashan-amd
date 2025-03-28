@@ -25,7 +25,7 @@ Additionally, I am committed to making a positive impact in the world through my
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,go,docker,postman,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,go,docker,vscode,linux" />
 </p>
 
 ---
