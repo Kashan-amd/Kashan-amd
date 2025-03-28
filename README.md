@@ -8,7 +8,7 @@
 <p align="center">I am filled with enthusiasm and ambition for crafting new solutions.
 My objective is to exceed expectations and build exceptional quality in every challenge I undertake. 
 Additionally, I am committed to making a positive impact in the world through my work while I am at it!
-<br/>Ss in short, I basically build stuff...⚡
+<br/>Soo.. in short, I basically build stuff...⚡
 </p>
 
 <br/>
