@@ -34,10 +34,10 @@ Additionally, I am committed to making a positive impact in the world through my
 ---
 
 <p align="center">
-    <a href="/">
+    <a>
       <img src="https://github-readme-stats.vercel.app/api?username=kashan-amd&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
     </a>
-    <a href="/">
+    <a>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashan-amd&theme=dark&hide_border=true" />
     </a>    
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashan-amd&show_icons=true&theme=dracula&locale=en&layout=compact" /> -->
