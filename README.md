@@ -15,7 +15,7 @@ Additionally, I am committed to making a positive impact in the world through my
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** [BMS](https://tracker.bexact.co) & [TMS](https://tms.bexact.co)
-- 🌱 **Learning:** Golang & Docker 🐳
+- 🌱 **Learning:** Vue JS & Docker
 - 💬 **Ask me about:** TALL stack, backend development, and more!
 - 📫 **Reach me at:** [kashanahmed0408@gmail.com](mailto:kashanahmed0408@gmail.com)
 
@@ -24,11 +24,7 @@ Additionally, I am committed to making a positive impact in the world through my
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,alpinejs,js,php,python,go,bootstrap,tailwind,mysql,sqlite" width="400"/>
-</p>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,docker,vscode,linux,windows" width="320"/>
+    <img src="https://skillicons.dev/icons?i=laravel,alpinejs,vue,js,php,python,bootstrap,tailwind,mysql,sqlite,git,github,githubactions,bitbucket,vscode" />
 </p>
 
 ---
